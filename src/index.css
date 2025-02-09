@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+  
+  /* Remove or modify these lines */
+  /* color-scheme: light dark; */
+  /* color: rgba(255, 255, 255, 0.87); */
+  /* background-color: #242424; */
+
+  /* Add these lines instead */
+  color-scheme: light;
+  color: #213547;
+  background-color: #ffffff;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.poppins-regular {
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.track-info{
+padding-top: 1rem;
+padding-right: 1rem;
+}
+
+.title-name {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #213547;
+}
+.artist-name {
+  font-size: 1.3rem;
+}
+
+@media screen and (max-width: 468px) {
+  .title-name {
+    font-size: 1.5rem;
+  }
+  .artist-name {
+    font-size: 1rem;
+  }
+  
+}
+
+.cover-img{
+  width: 25%;
+  min-width: 150px;
+}
+
+.cover-img img{
+  width: 100% ;
+  border-radius: 1rem;
+
+}
