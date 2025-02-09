@@ -38,7 +38,7 @@
         "country": "Philippines",
         "currentRank": 23,
         "previousRank": -1,
-        "streams": 11298303,
+        "streams": 298303,
         "streamChange": 0
     },
     {
@@ -421,8 +421,8 @@
     },
     {
         "country": "Latvia",
-        "currentRank": 23,
-        "previousRank": 24,
+        "currentRank": 24,
+        "previousRank": -1,
         "streams": 3686,
         "streamChange": 0
     },
@@ -444,7 +444,7 @@
         "country": "Iceland",
         "currentRank": 80,
         "previousRank": -1,
-        "streams": 55555555,
+        "streams": 1562,
         "streamChange": 0
     }
 ]
