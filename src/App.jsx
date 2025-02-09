@@ -66,13 +66,13 @@ const App = () => {
           <StatCard
             icon={Globe}
             title="Total Countries"
-            value={sortedData.length}
+            value={sortedData.length-1}
             className="bg-blue-500"
           />
           <StatCard
             icon={TrendingUp}
             title="Total Streams"
-            value={formatNumber(totalStreams)}
+            value={"-"}
             className="bg-green-500"
           />
           <StatCard
