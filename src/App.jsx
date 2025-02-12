@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowUp, ArrowDown, Minus, Globe, TrendingUp, Users } from 'lucide-react';
+import { ArrowUp, ArrowDown, Minus, Globe, Calendar, Users } from 'lucide-react';
 import cover from './assets/cover.webp';
 import stream from './assets/spotify_stream.json';
 
@@ -46,7 +46,7 @@ const App = () => {
             Spotify Daily Top Streams
           </h1>
           <div className="text-sm text-gray-600">
-            Last updated: {new Date().toLocaleDateString()}
+            Last updated: {"2/11/2025"}
           </div>
         </div>
 
@@ -62,25 +62,20 @@ const App = () => {
           </div>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <StatCard
             icon={Globe}
             title="Total Countries"
-            value={sortedData.length-1}
+            value={sortedData.length - 1}
             className="bg-blue-500"
           />
           <StatCard
-            icon={TrendingUp}
-            title="Total Streams"
-            value={"-"}
+            icon={Calendar}
+            title="Total days on chart"
+            value={"5"}
             className="bg-green-500"
           />
-          <StatCard
-            icon={Users}
-            title="Average Streams"
-            value={formatNumber(averageStreams)}
-            className="bg-purple-500"
-          />
+
         </div>
 
         <div className="bg-white rounded-xl shadow-lg overflow-hidden">
@@ -105,9 +100,9 @@ const App = () => {
                       <td className="p-4 font-medium text-gray-800">{row.country}</td>
                       <td className="p-4">
                         <div className="flex items-center gap-2">
-                        {getRankChange(row.currentRank, row.previousRank)}
+                          {getRankChange(row.currentRank, row.previousRank)}
                           <span className="font-semibold text-gray-800">{row.currentRank}</span>
-                       
+
                         </div>
                       </td>
                       <td className="p-4 font-medium text-gray-800">{formatNumber(row.streams)}</td>
@@ -122,7 +117,11 @@ const App = () => {
           </div>
         </div>
       </div>
-      <p className=''>data from spotify</p>
+      <div className="flex m-5 justify-center">
+        <p className=' mr-1'>Data from </p>
+        <a  className='mr-1 text-green-600'href="https://charts.spotify.com/charts/overview/global">Spotify</a>
+      </div>
+
     </div>
   );
 };

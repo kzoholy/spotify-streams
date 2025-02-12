@@ -1,422 +1,429 @@
 [
     {
         "country": "Global",
-        "currentRank": 9,
-        "previousRank": 6,
-        "streams": 5065584,
-        "streamChange": -1198302
+        "currentRank": 19,
+        "previousRank": 19,
+        "streams": 4105264,
+        "streamChange": 6823
+    },
+    {
+        "country": "Australia",
+        "currentRank": 56,
+        "previousRank": 55,
+        "streams": 89365,
+        "streamChange": -786
+    },
+    {
+        "country": "Austria",
+        "currentRank": 32,
+        "previousRank": 20,
+        "streams": 13762,
+        "streamChange": -5816
+    },
+    {
+        "country": "Belarus",
+        "currentRank": 16,
+        "previousRank": 14,
+        "streams": 4995,
+        "streamChange": -631
+    },
+    {
+        "country": "Belgium",
+        "currentRank": 78,
+        "previousRank": 79,
+        "streams": 15774,
+        "streamChange": 251
+    },
+    {
+        "country": "Brazil",
+        "currentRank": 77,
+        "previousRank": 64,
+        "streams": 271153,
+        "streamChange": -18880
+    },
+    {
+        "country": "Bulgaria",
+        "currentRank": 26,
+        "previousRank": 28,
+        "streams": 5174,
+        "streamChange": -430
+    },
+    {
+        "country": "Canada",
+        "currentRank": 40,
+        "previousRank": 41,
+        "streams": 100417,
+        "streamChange": 3914
+    },
+    {
+        "country": "Chile",
+        "currentRank": 76,
+        "previousRank": 89,
+        "streams": 54679,
+        "streamChange": 2841
+    },
+    {
+        "country": "Colombia",
+        "currentRank": 192,
+        "previousRank": 154,
+        "streams": 39296,
+        "streamChange": -3150
+    },
+    {
+        "country": "Costa Rica",
+        "currentRank": 124,
+        "previousRank": 120,
+        "streams": 8367,
+        "streamChange": -62
+    },
+    {
+        "country": "Czech Republic",
+        "currentRank": 132,
+        "previousRank": 118,
+        "streams": 10762,
+        "streamChange": -795
+    },
+    {
+        "country": "Denmark",
+        "currentRank": 61,
+        "previousRank": 63,
+        "streams": 18374,
+        "streamChange": -898
+    },
+    {
+        "country": "Dominican Republic",
+        "currentRank": 190,
+        "previousRank": 172,
+        "streams": 4124,
+        "streamChange": -104
+    },
+    {
+        "country": "El Salvador",
+        "currentRank": 186,
+        "previousRank": 148,
+        "streams": 5922,
+        "streamChange": -530
+    },
+    {
+        "country": "Estonia",
+        "currentRank": 28,
+        "previousRank": 24,
+        "streams": 2465,
+        "streamChange": -398
+    },
+    {
+        "country": "Finland",
+        "currentRank": 95,
+        "previousRank": 86,
+        "streams": 13252,
+        "streamChange": -983
+    },
+    {
+        "country": "France",
+        "currentRank": 87,
+        "previousRank": 84,
+        "streams": 87876,
+        "streamChange": -1691
+    },
+    {
+        "country": "Germany",
+        "currentRank": 61,
+        "previousRank": 60,
+        "streams": 116991,
+        "streamChange": 30
+    },
+    {
+        "country": "Greece",
+        "currentRank": 137,
+        "previousRank": 129,
+        "streams": 14416,
+        "streamChange": -462
+    },
+    {
+        "country": "Honduras",
+        "currentRank": 139,
+        "previousRank": 120,
+        "streams": 4993,
+        "streamChange": -225
+    },
+    {
+        "country": "Hong Kong",
+        "currentRank": 20,
+        "previousRank": 19,
+        "streams": 20254,
+        "streamChange": -240
+    },
+    {
+        "country": "Hungary",
+        "currentRank": 50,
+        "previousRank": 47,
+        "streams": 11713,
+        "streamChange": -558
+    },
+    {
+        "country": "Iceland",
+        "currentRank": 117,
+        "previousRank": 126,
+        "streams": 1184,
+        "streamChange": 44
+    },
+    {
+        "country": "Indonesia",
+        "currentRank": 134,
+        "previousRank": 80,
+        "streams": 197530,
+        "streamChange": -56249
+    },
+    {
+        "country": "Ireland",
+        "currentRank": 60,
+        "previousRank": 53,
+        "streams": 15431,
+        "streamChange": -705
+    },
+    {
+        "country": "Israel",
+        "currentRank": 161,
+        "previousRank": 150,
+        "streams": 7141,
+        "streamChange": -89
+    },
+    {
+        "country": "Kazakhstan",
+        "currentRank": 26,
+        "previousRank": 23,
+        "streams": 7431,
+        "streamChange": -337
+    },
+    {
+        "country": "Latvia",
+        "currentRank": 33,
+        "previousRank": 30,
+        "streams": 3126,
+        "streamChange": -231
+    },
+    {
+        "country": "Lithuania",
+        "currentRank": 29,
+        "previousRank": 29,
+        "streams": 5093,
+        "streamChange": -187
+    },
+    {
+        "country": "Luxembourg",
+        "currentRank": 43,
+        "previousRank": 39,
+        "streams": 1272,
+        "streamChange": 19
+    },
+    {
+        "country": "Malaysia",
+        "currentRank": 20,
+        "previousRank": 17,
+        "streams": 59407,
+        "streamChange": -5220
+    },
+    {
+        "country": "Mexico",
+        "currentRank": 139,
+        "previousRank": 119,
+        "streams": 259231,
+        "streamChange": -2550
+    },
+    {
+        "country": "Morocco",
+        "currentRank": 144,
+        "previousRank": 140,
+        "streams": 4526,
+        "streamChange": -467
+    },
+    {
+        "country": "Netherlands",
+        "currentRank": 72,
+        "previousRank": 68,
+        "streams": 44830,
+        "streamChange": -1657
+    },
+    {
+        "country": "New Zealand",
+        "currentRank": 56,
+        "previousRank": 45,
+        "streams": 14674,
+        "streamChange": -581
+    },
+    {
+        "country": "Nicaragua",
+        "currentRank": 159,
+        "previousRank": 139,
+        "streams": 3216,
+        "streamChange": -105
+    },
+    {
+        "country": "Norway",
+        "currentRank": 59,
+        "previousRank": 56,
+        "streams": 18825,
+        "streamChange": -1223
+    },
+    {
+        "country": "Panama",
+        "currentRank": 79,
+        "previousRank": 66,
+        "streams": 4442,
+        "streamChange": -472
+    },
+    {
+        "country": "Peru",
+        "currentRank": 79,
+        "previousRank": 73,
+        "streams": 36244,
+        "streamChange": -2440
+    },
+    {
+        "country": "Philippines",
+        "currentRank": 38,
+        "previousRank": 36,
+        "streams": 255020,
+        "streamChange": 2882
+    },
+    {
+        "country": "Poland",
+        "currentRank": 54,
+        "previousRank": 53,
+        "streams": 59101,
+        "streamChange": -4845
+    },
+    {
+        "country": "Portugal",
+        "currentRank": 60,
+        "previousRank": 55,
+        "streams": 20181,
+        "streamChange": -398
+    },
+    {
+        "country": "Romania",
+        "currentRank": 62,
+        "previousRank": 60,
+        "streams": 11047,
+        "streamChange": 73
+    },
+    {
+        "country": "Saudi Arabia",
+        "currentRank": 11,
+        "previousRank": 8,
+        "streams": 12153,
+        "streamChange": -1536
+    },
+    {
+        "country": "Singapore",
+        "currentRank": 11,
+        "previousRank": 11,
+        "streams": 46429,
+        "streamChange": -177
+    },
+    {
+        "country": "Slovakia",
+        "currentRank": 82,
+        "previousRank": 68,
+        "streams": 4893,
+        "streamChange": -449
+    },
+    {
+        "country": "South Africa",
+        "currentRank": 183,
+        "previousRank": 159,
+        "streams": 11770,
+        "streamChange": -591
+    },
+    {
+        "country": "South Korea",
+        "currentRank": 36,
+        "previousRank": 29,
+        "streams": 17894,
+        "streamChange": -1290
+    },
+    {
+        "country": "Spain",
+        "currentRank": 145,
+        "previousRank": 133,
+        "streams": 63559,
+        "streamChange": -3403
+    },
+    {
+        "country": "Sweden",
+        "currentRank": 82,
+        "previousRank": 87,
+        "streams": 27741,
+        "streamChange": -157
+    },
+    {
+        "country": "Switzerland",
+        "currentRank": 16,
+        "previousRank": 13,
+        "streams": 28703,
+        "streamChange": -1755
+    },
+    {
+        "country": "Taiwan",
+        "currentRank": 12,
+        "previousRank": 14,
+        "streams": 46062,
+        "streamChange": -215
     },
     {
         "country": "Thailand",
         "currentRank": 1,
         "previousRank": 1,
-        "streams": 1263982,
-        "streamChange": -219161
-    },
-    {
-        "country": "USA",
-        "currentRank": 45,
-        "previousRank": 32,
-        "streams": 693717,
-        "streamChange": -217892
-    },
-    {
-        "country": "Indonesia",
-        "currentRank": 52,
-        "previousRank": 37,
-        "streams": 328486,
-        "streamChange": -59571
-    },
-    {
-        "country": "Brazil",
-        "currentRank": 115,
-        "previousRank": 55,
-        "streams": 274882,
-        "streamChange": -105384
-    },
-    {
-        "country": "Philippines",
-        "currentRank": 33,
-        "previousRank": 23,
-        "streams": 274413,
-        "streamChange": -23890
-    },
-    {
-        "country": "Mexico",
-        "currentRank": 138,
-        "previousRank": 112,
-        "streams": 262812,
-        "streamChange": -32062
-    },
-    {
-        "country": "United Kingdom",
-        "currentRank": 24,
-        "previousRank": 19,
-        "streams": 193370,
-        "streamChange": -45956
-    },
-    {
-        "country": "Germany",
-        "currentRank": 58,
-        "previousRank": 40,
-        "streams": 130554,
-        "streamChange": -44545
-    },
-    {
-        "country": "Canada",
-        "currentRank": 36,
-        "previousRank": 32,
-        "streams": 102920,
-        "streamChange": -17863
+        "streams": 622564,
+        "streamChange": 169065
     },
     {
         "country": "Turkey",
-        "currentRank": 126,
-        "previousRank": 94,
-        "streams": 98058,
-        "streamChange": -8192
-    },
-    {
-        "country": "France",
-        "currentRank": 101,
-        "previousRank": 54,
-        "streams": 88004,
-        "streamChange": -36859
-    },
-    {
-        "country": "Australia",
-        "currentRank": 61,
-        "previousRank": 64,
-        "streams": 78818,
-        "streamChange": -2301
-    },
-    {
-        "country": "Poland",
-        "currentRank": 51,
-        "previousRank": 46,
-        "streams": 66800,
-        "streamChange": -11510
-    },
-    {
-        "country": "Spain",
-        "currentRank": 150,
+        "currentRank": 152,
         "previousRank": 126,
-        "streams": 60943,
-        "streamChange": -16780
-    },
-    {
-        "country": "Malaysia",
-        "currentRank": 18,
-        "previousRank": 14,
-        "streams": 59413,
-        "streamChange": -13445
-    },
-    {
-        "country": "Vietnam",
-        "currentRank": 36,
-        "previousRank": 8,
-        "streams": 58436,
-        "streamChange": -79003
-    },
-    {
-        "country": "Chile",
-        "currentRank": 85,
-        "previousRank": 70,
-        "streams": 53472,
-        "streamChange": -10177
-    },
-    {
-        "country": "Netherlands",
-        "currentRank": 89,
-        "previousRank": 56,
-        "streams": 45681,
-        "streamChange": -15167
-    },
-    {
-        "country": "Colombia",
-        "currentRank": 189,
-        "previousRank": 122,
-        "streams": 41253,
-        "streamChange": -9549
-    },
-    {
-        "country": "Taiwan",
-        "currentRank": 18,
-        "previousRank": 9,
-        "streams": 40691,
-        "streamChange": -13486
-    },
-    {
-        "country": "Peru",
-        "currentRank": 70,
-        "previousRank": 65,
-        "streams": 39388,
-        "streamChange": -3488
-    },
-    {
-        "country": "Singapore",
-        "currentRank": 13,
-        "previousRank": 12,
-        "streams": 34747,
-        "streamChange": -8533
-    },
-    {
-        "country": "Switzerland",
-        "currentRank": 12,
-        "previousRank": 6,
-        "streams": 31932,
-        "streamChange": -8071
-    },
-    {
-        "country": "Sweden",
-        "currentRank": 89,
-        "previousRank": 46,
-        "streams": 30425,
-        "streamChange": -16254
-    },
-    {
-        "country": "Austria",
-        "currentRank": 10,
-        "previousRank": 8,
-        "streams": 25529,
-        "streamChange": -4176
-    },
-    {
-        "country": "Norway",
-        "currentRank": 52,
-        "previousRank": 34,
-        "streams": 22082,
-        "streamChange": -10836
-    },
-    {
-        "country": "Denmark",
-        "currentRank": 65,
-        "previousRank": 54,
-        "streams": 19072,
-        "streamChange": -9226
-    },
-    {
-        "country": "Portugal",
-        "currentRank": 57,
-        "previousRank": 46,
-        "streams": 19022,
-        "streamChange": -4879
-    },
-    {
-        "country": "Hong Kong",
-        "currentRank": 21,
-        "previousRank": 17,
-        "streams": 17762,
-        "streamChange": -3704
-    },
-    {
-        "country": "Ireland",
-        "currentRank": 62,
-        "previousRank": 40,
-        "streams": 16298,
-        "streamChange": -3585
-    },
-    {
-        "country": "Belgium",
-        "currentRank": 122,
-        "previousRank": 56,
-        "streams": 15185,
-        "streamChange": -4622
-    },
-    {
-        "country": "South Korea",
-        "currentRank": 52,
-        "previousRank": 39,
-        "streams": 14558,
-        "streamChange": -2448
-    },
-    {
-        "country": "Greece",
-        "currentRank": 149,
-        "previousRank": 136,
-        "streams": 14220,
-        "streamChange": -1597
-    },
-    {
-        "country": "Saudi Arabia",
-        "currentRank": 5,
-        "previousRank": 6,
-        "streams": 14064,
-        "streamChange": -3185
-    },
-    {
-        "country": "Ukraine",
-        "currentRank": 27,
-        "previousRank": 11,
-        "streams": 13300,
-        "streamChange": -3713
-    },
-    {
-        "country": "New Zealand",
-        "currentRank": 74,
-        "previousRank": 84,
-        "streams": 13294,
-        "streamChange": 487
-    },
-    {
-        "country": "Finland",
-        "currentRank": 96,
-        "previousRank": 65,
-        "streams": 13180,
-        "streamChange": -6297
-    },
-    {
-        "country": "Romania",
-        "currentRank": 72,
-        "previousRank": 63,
-        "streams": 10999,
-        "streamChange": -1529
-    },
-    {
-        "country": "Hungary",
-        "currentRank": 58,
-        "previousRank": 58,
-        "streams": 10602,
-        "streamChange": -981
-    },
-    {
-        "country": "Czech Republic",
-        "currentRank": 160,
-        "previousRank": 133,
-        "streams": 9698,
-        "streamChange": -2045
-    },
-    {
-        "country": "Costa Rica",
-        "currentRank": 142,
-        "previousRank": 93,
-        "streams": 8466,
-        "streamChange": -1753
-    },
-    {
-        "country": "Morocco",
-        "currentRank": 86,
-        "previousRank": 39,
-        "streams": 7492,
-        "streamChange": -2433
-    },
-    {
-        "country": "El Salvador",
-        "currentRank": 148,
-        "previousRank": 112,
-        "streams": 6776,
-        "streamChange": -906
-    },
-    {
-        "country": "Venezuela",
-        "currentRank": 108,
-        "previousRank": 77,
-        "streams": 6602,
-        "streamChange": -1802
+        "streams": 85812,
+        "streamChange": -11813
     },
     {
         "country": "UAE",
-        "currentRank": 37,
-        "previousRank": 32,
-        "streams": 6581,
-        "streamChange": -1019
+        "currentRank": 31,
+        "previousRank": 30,
+        "streams": 6900,
+        "streamChange": -57
     },
     {
-        "country": "Kazakhstan",
-        "currentRank": 39,
-        "previousRank": 26,
-        "streams": 6457,
-        "streamChange": -1281
+        "country": "Ukraine",
+        "currentRank": 20,
+        "previousRank": 18,
+        "streams": 14280,
+        "streamChange": -109
     },
     {
-        "country": "Belarus",
-        "currentRank": 18,
-        "previousRank": 13,
-        "streams": 5341,
-        "streamChange": -1038
-    },
-    {
-        "country": "Honduras",
-        "currentRank": 136,
-        "previousRank": 82,
-        "streams": 5274,
-        "streamChange": -1558
-    },
-    {
-        "country": "Bulgaria",
+        "country": "United Kingdom",
         "currentRank": 28,
-        "previousRank": 22,
-        "streams": 5081,
-        "streamChange": -1406
-    },
-    {
-        "country": "Slovakia",
-        "currentRank": 72,
-        "previousRank": 57,
-        "streams": 5050,
-        "streamChange": -1222
-    },
-    {
-        "country": "Panama",
-        "currentRank": 67,
-        "previousRank": 52,
-        "streams": 5003,
-        "streamChange": -1292
-    },
-    {
-        "country": "Lithuania",
-        "currentRank": 35,
-        "previousRank": 25,
-        "streams": 4929,
-        "streamChange": -1088
-    },
-    {
-        "country": "Dominican Republic",
-        "currentRank": 188,
-        "previousRank": 124,
-        "streams": 4570,
-        "streamChange": -1070
-    },
-    {
-        "country": "Bolivia",
-        "currentRank": 200,
-        "previousRank": 148,
-        "streams": 4433,
-        "streamChange": -900
-    },
-    {
-        "country": "Nicaragua",
-        "currentRank": 108,
-        "previousRank": 83,
-        "streams": 3848,
-        "streamChange": -480
-    },
-    {
-        "country": "Latvia",
-        "currentRank": 26,
         "previousRank": 24,
-        "streams": 3076,
-        "streamChange": -610
+        "streams": 189103,
+        "streamChange": -10757
     },
     {
-        "country": "Estonia",
-        "currentRank": 19,
-        "previousRank": 21,
-        "streams": 2818,
-        "streamChange": -438
+        "country": "USA",
+        "currentRank": 70,
+        "previousRank": 64,
+        "streams": 577964,
+        "streamChange": -2303
     },
     {
-        "country": "Luxembourg",
-        "currentRank": 50,
+        "country": "Venezuela",
+        "currentRank": 98,
+        "previousRank": 91,
+        "streams": 6594,
+        "streamChange": -326
+    },
+    {
+        "country": "Vietnam",
+        "currentRank": 38,
         "previousRank": 32,
-        "streams": 1239,
-        "streamChange": -483
-    },
-    {
-        "country": "Iceland",
-        "currentRank": 120,
-        "previousRank": 80,
-        "streams": 1135,
-        "streamChange": -427
+        "streams": 58913,
+        "streamChange": -6951
     }
 ]
