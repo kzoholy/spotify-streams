@@ -46,7 +46,7 @@ const App = () => {
             Spotify Daily Top Streams
           </h1>
           <div className="text-sm text-gray-600">
-            Last updated: {"2/11/2025"}
+            Last updated: {"2/12/2025"}
           </div>
         </div>
 
@@ -72,7 +72,7 @@ const App = () => {
           <StatCard
             icon={Calendar}
             title="Total days on chart"
-            value={"5"}
+            value={"6"}
             className="bg-green-500"
           />
 
